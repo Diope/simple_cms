@@ -1,28 +1,15 @@
-== README
+== Simple CMS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Found a great resource in the Kevin Skoguland series of Lynda.com videos, I decided to follow along with his Rails 4 video, but I found myself skipping ahead in many areas.
 
-Things you may want to cover:
+At the moment, I'm just doing what I feel is right from what I've learned these last 3 months.
 
-* Ruby version
+For this I've decided on the following
 
-* System dependencies
+* Using MySQL in leiu of SQLite3
 
-* Configuration
+* Rolling the authorization myself instead of Devise (so that I can better understand Devise. Hopefully I remember enough from the Michael Hartl tutorial)
 
-* Database creation
+* Focusing primarily on the backend and less on the front end design so it's going to look rough.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* I will probably make a myriad of mistakes and things that are illogical. If you read through my code and see room for improvement, I would be thrilled to read them!
